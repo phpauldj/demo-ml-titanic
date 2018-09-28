@@ -7,4 +7,4 @@ A continuación, se utilizara un set de datos el cual contiene un listado de los
 
 En este Notebook, utilizaremos ademas, la libreria Scikit-Learn para el procesamiento de datos, y la predicción de nuevos datos sin etiquetar (Determinar la probabilidad de supervivencia) los cuales se encuentran en el conjunto de datos de prueba.
 
-![Hundimiento del Titanic.](imgs/titanic.jpg)
+![Hundimiento del Titanic.](images/titanic.jpg)
